@@ -1,7 +1,4 @@
-[SKILL.md](https://github.com/user-attachments/files/32035251/SKILL.md)
----
-name: matlab-automatic-wwj
-description: 作者:抖音 萌猪过河。用本机 MATLAB 执行数值建模、自动控制作图及 Simulink 建模仿真，验证并交付结果；提供可见窗口测试例程，以及 Codex、豆包工作电脑版的 MATLAB MCP 接入指南。
+作者:抖音 萌猪过河。用本机 MATLAB 执行数值建模、自动控制作图及 Simulink 建模仿真，验证并交付结果；提供可见窗口测试例程，以及 Codex、豆包工作电脑版的 MATLAB MCP 接入指南。
 ---
 
 # MATLAB Automatic WWJ
